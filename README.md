@@ -25,6 +25,9 @@ This is a laravel project for tutorial on [my blog](https://www.blog.babangcreat
         ```
         php artisan migrate
         ```
-        
+6. run server
+    ```
+    php artisan serve
+    ```        
 ## Contribute
 Feel free to discuss any difficulties or issues on this repo, or email me :D
